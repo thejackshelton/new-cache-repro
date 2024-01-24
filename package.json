@@ -1,0 +1,19 @@
+{
+  "name": "current-sw-bug",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.4.1",
+    "@builder.io/qwik": "github:BuilderIO/qwik-build#38daa50e998132a709e9c8c9c1eb3982affc7158",
+    "@qwikdev/astro": "^0.4.9",
+    "astro": "^4.2.4",
+    "typescript": "^5.3.3"
+  }
+}
