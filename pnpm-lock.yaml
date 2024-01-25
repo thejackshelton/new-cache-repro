@@ -9,11 +9,11 @@ dependencies:
     specifier: ^0.4.1
     version: 0.4.1(typescript@5.3.3)
   '@builder.io/qwik':
-    specifier: github:BuilderIO/qwik-build#e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e
-    version: github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0)
+    specifier: github:BuilderIO/qwik-build#318c04271f80765e0f8f1dc650d972209d6419b8
+    version: github.com/BuilderIO/qwik-build/318c04271f80765e0f8f1dc650d972209d6419b8(undici@6.4.0)
   '@qwikdev/astro':
-    specifier: ^0.4.9
-    version: 0.4.9(@builder.io/qwik@1.4.0)(typescript@5.3.3)
+    specifier: ^0.4.11
+    version: 0.4.11(@builder.io/qwik@1.4.0)(typescript@5.3.3)
   astro:
     specifier: ^4.2.4
     version: 4.2.4(typescript@5.3.3)
@@ -639,13 +639,13 @@ packages:
       fastq: 1.16.0
     dev: false
 
-  /@qwikdev/astro@0.4.9(@builder.io/qwik@1.4.0)(typescript@5.3.3):
-    resolution: {integrity: sha512-AFDnvHcXqAZtJnlbkFY/mdlE9B0F9L1KC9AvqPw7Jt2qR4lukyl52g8+z/1LXXXSAePYim/ZF3d7PhYLhtbngg==}
+  /@qwikdev/astro@0.4.11(@builder.io/qwik@1.4.0)(typescript@5.3.3):
+    resolution: {integrity: sha512-Ybmfy0pPtmWyy11DixKk4dOjTsqPXh9Ue5hZS3JS9NcmhHrwe3v3OE2+W3rL7Snv9jpjM5kHgh5o0+HaV2n+hA==}
     peerDependencies:
       '@builder.io/qwik': ^1.4.0
       typescript: ^5.3.2
     dependencies:
-      '@builder.io/qwik': github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0)
+      '@builder.io/qwik': github.com/BuilderIO/qwik-build/318c04271f80765e0f8f1dc650d972209d6419b8(undici@6.4.0)
       fs-extra: 11.2.0
       typescript: 5.3.3
       vite-tsconfig-paths: 4.3.1(typescript@5.3.3)
@@ -3870,9 +3870,9 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0):
-    resolution: {tarball: https://codeload.github.com/BuilderIO/qwik-build/tar.gz/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e}
-    id: github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e
+  github.com/BuilderIO/qwik-build/318c04271f80765e0f8f1dc650d972209d6419b8(undici@6.4.0):
+    resolution: {tarball: https://codeload.github.com/BuilderIO/qwik-build/tar.gz/318c04271f80765e0f8f1dc650d972209d6419b8}
+    id: github.com/BuilderIO/qwik-build/318c04271f80765e0f8f1dc650d972209d6419b8
     name: '@builder.io/qwik'
     version: 1.4.0
     engines: {node: '>=16.8.0 <18.0.0 || >=18.11'}
