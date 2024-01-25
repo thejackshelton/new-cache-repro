@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.4.1
     version: 0.4.1(typescript@5.3.3)
   '@builder.io/qwik':
-    specifier: github:BuilderIO/qwik-build#fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb
-    version: github.com/BuilderIO/qwik-build/fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb(undici@6.4.0)
+    specifier: github:BuilderIO/qwik-build#e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e
+    version: github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0)
   '@qwikdev/astro':
     specifier: ^0.4.9
     version: 0.4.9(@builder.io/qwik@1.4.0)(typescript@5.3.3)
@@ -645,7 +645,7 @@ packages:
       '@builder.io/qwik': ^1.4.0
       typescript: ^5.3.2
     dependencies:
-      '@builder.io/qwik': github.com/BuilderIO/qwik-build/fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb(undici@6.4.0)
+      '@builder.io/qwik': github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0)
       fs-extra: 11.2.0
       typescript: 5.3.3
       vite-tsconfig-paths: 4.3.1(typescript@5.3.3)
@@ -3870,9 +3870,9 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/BuilderIO/qwik-build/fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb(undici@6.4.0):
-    resolution: {tarball: https://codeload.github.com/BuilderIO/qwik-build/tar.gz/fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb}
-    id: github.com/BuilderIO/qwik-build/fbee31df16b94bdfcd67fbc736bfa0b62c8fa4bb
+  github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e(undici@6.4.0):
+    resolution: {tarball: https://codeload.github.com/BuilderIO/qwik-build/tar.gz/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e}
+    id: github.com/BuilderIO/qwik-build/e1b70d665ddda5fb6ddbbab64b256fdbb136dd8e
     name: '@builder.io/qwik'
     version: 1.4.0
     engines: {node: '>=16.8.0 <18.0.0 || >=18.11'}
