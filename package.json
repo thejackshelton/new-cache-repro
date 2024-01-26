@@ -16,6 +16,6 @@
     "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "@builder.io/qwik": "^1.4.1"
+    "@builder.io/qwik": "github:BuilderIO/qwik-build#667a75c6213982b6209006e8ff8491dde7864125"
   }
 }
