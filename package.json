@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
-    "@builder.io/qwik": "github:BuilderIO/qwik-build#318c04271f80765e0f8f1dc650d972209d6419b8",
     "@qwikdev/astro": "^0.4.11",
     "astro": "^4.2.4",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@builder.io/qwik": "^1.4.1"
   }
 }
